@@ -1,2 +1,0 @@
-# webjuan
-pagina de ensayo
